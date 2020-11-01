@@ -1,5 +1,5 @@
-# box-game
-Just for learning purpose
+## box-game
+#Just for learning purpose
 
 Instructions to play:
 
